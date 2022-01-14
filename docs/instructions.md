@@ -7,4 +7,12 @@
 - De la columna 2 hasta la 8 tenemos los pocillos con medio de cultivo y bacteria a diferentes tiempos de incubación (4 a 28 horas). Las cuatro primeras filas (A,B,C y D) son réplicas. 
 - Sólo se utilizaron 32 pocillos en total.
 
+<p align="center">
+  <img width="450" src="multiwell-plate.jpg" alt="multiwell-plate">
+</p>
+
 <p align="justify"> Al finalizar, se tomaron fotografías de los pocillos con un microscopio digital 1000X CoolingTech, una lámpara LED de luz blanca y un filtro de acrílico blanco de 3mm. Estos son unos ejemplos de control negativo (A) y crecimiento de biopelícula (B).</p>
+
+<p align="center">
+  <img width="450" src="pics-examples.jpg" alt="pics-example">
+</p>
