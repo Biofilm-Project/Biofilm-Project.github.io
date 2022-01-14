@@ -1,4 +1,4 @@
-# ¡Bienvenido/a la Evaluación de Usabilidad del Biofilm Analyzer Software!
+<h3 style="text-align: center;">¡Bienvenido/a la Evaluación de Usabilidad del Biofilm Analyzer Software!</h3> 
 
 En el marco del proyecto ["Desarrollo de un estimulador acústico que controla señales intracelulares involucradas en la formación de biofilm corrosivo o infeccioso"](https://youtu.be/V6LBSABOc2g?t=169) (SIDISI: 200560), el equipo de investigación del [Laboratorio de Moléculas Individuales](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/lmi) está realizando una evaluación sobre la facilidad de uso de una nueva herramienta para el análisis de biopelículas: Biofilm Analyzer Software (BAS). El BAS está enfocado en la cuantificación de biopelículas adheridas a una superficie, como estrategia complementaria a la técnica de medición de absorbancia óptica (OD, en inglés) o fluorescencia.
 
