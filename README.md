@@ -24,9 +24,9 @@
 - Leer las instrucciones de esta [Guía](docs/instructions.md) para realizar el análisis de las 32 imágenes de biopelículas.
 - Visitar este [link](), subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
 
-Si tiene alguna duda o problema para hace el análisis, reportar al siguiente correo: pierre.padilla.h@upch.pe
+Si tiene alguna duda o problema para hacer el análisis de imágenes, escribir al siguiente correo: **pierre.padilla.h@upch.pe**
 
-<p align="center">Por favor, no difundir el link de esta evaluación es CONFIDENCIAL 🕵️‍♀️🕵️‍♂️</p>
+<p align="center">Por favor, no difundir el link de esta evaluación, es CONFIDENCIAL 🕵️‍♀️🕵️‍♂️</p>
 
 <h2 align="center">¡Gracias por participar!</h2> 
 
