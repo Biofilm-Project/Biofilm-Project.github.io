@@ -31,6 +31,8 @@ En la seccion **Choose Work Space** podrá ubicar e importar las imágenes para 
 
 > **IMPORTANTE:** Para la cuantificación de la imágenes de biopelícula de cada fila, debe utilizar el control negativo que le corresponde. Por ejemplo: Si analiza las imágenes de la Fila A, debe utilizar como imagen de referencia la imagen A1 y comparar con la imagen A2, A3,..., A8. Para la Fila B, la imagen de referencia es B1, y así para cada fila.
 
+<p align="center"> <img width="600" src="step1-BAS.jpg" alt="step1-BAS"> </p>
+
 ### PASO 2: Recorte de la región de interés de la imagen
 - Seleccionar imágen para analizar
 - Seleccionar los puntos extremos del fondo del pocillo
