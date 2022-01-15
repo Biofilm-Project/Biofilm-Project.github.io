@@ -74,7 +74,7 @@ En la sección **Select Color Scale** puede seleccionar un filtro para facilitar
 - Dar clic en **Show csv file** para visualizar el resultado en el mismo entorno del BAS.
 - Dar clic en el ícono de Guardar si desea descargar la imagen con el resultado.
  
- > **NOTA:** Los datos que se generan en el archivo CSV corresponden a Estadística Descriptiva de la distribución de píxeles de la imagen de interés y la distribución de los píxeles que representan biopelícula.
+ > **NOTA:** Los datos que se generan en el archivo CSV corresponden a Estadística Descriptiva de la distribución de píxeles de la imagen de interés y la distribución de los píxeles que representan biopelícula. El archivo CSV se crea una sola vez. Cuando se analicen los otros pocillos, los resultados se irán almacenando de manera secuencial. 
 
 <p align="center"> <img width="600" src="step5-BAS.jpg" alt="step5-BAS"> </p>
 
