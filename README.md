@@ -4,7 +4,7 @@
 
 <p align="justify">Nuestro equipo sigue en la fase de desarrollo y perfeccionamiento del BAS. Esta Evaluación de Usabilidad nos ayudará a conocer la percepción de los usuarios finales sobre la herramienta y los principales problemas de uso. Con esta información, podremos mejorar el software y desarrollar una versión final que será de código abierto y libre uso.</p>
 
-<p align="justify">Si usted tiene acceso a esta información es porque recibió una invitación y se encuentra interesado/a en participar de este estudio. La participación es voluntaria y anónima, en ningún momento se le solicitará alguna información que lo/a vincule con sus respuestas. Sólo se le solicitará su correo al final de la evaluación si desea recibir noticias sobre el proyecto.</p>  
+<p align="justify">Si usted tiene acceso a esta información es porque recibió una invitación y se encuentra interesado/a en participar de este estudio. Revise los requisitos de participación y las instrucciones generales para la evaluación de las imágenes con biopelículas.</p>  
 
 ## Requisitos de participación
 - Tener conocimiento básico de biología.
