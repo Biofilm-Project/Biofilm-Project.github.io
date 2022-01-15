@@ -14,7 +14,7 @@
 <p align="center"> <img width="450" src="pics-examples.jpg" alt="pics-example"> </p>
 
 <h2>Instrucciones para el análisis de imágenes</h2>
-<p align="justify">Su objetivo es obtener la cantidad de biopelícula adherida en cada uno de los 32 pocillos utilizando el Biofilm Analyzer Software (BAS). Para cumplir con este objetivo, debe seguir la siguiente lista de actividades:</p>
+<p align="justify">Su objetivo es obtener la cantidad de biopelícula adherida en cada uno de los 32 pocillos utilizando el Biofilm Analyzer Software (BAS). Para cumplir con este objetivo, debe ver este <a href="https://drive.google.com/file/d/1Ye2KVQ3t62YlKZBf7UFDmGEMOnFlWa6o/view?usp=sharing" target="_blank" rel="noreferrer noopener">Video Instructivo</a> y seguir la siguiente lista de actividades que contiene una información similar:</p>
 
 ### PASO 0: Instalación y ejecución del BAS
 - Descargar el software desde <a href="https://drive.google.com/file/d/11fnxmybLOUI035RiyGnA9MvAqN_enge0/view?usp=sharing" target="_blank" rel="noreferrer noopener">aquí</a>. La carpeta comprimida también contiene las imágenes que analizará en los siguientes pasos.
