@@ -76,6 +76,8 @@ En la sección **Select Color Scale** puede seleccionar un filtro para facilitar
  
  > **NOTA:** Los datos que se generan en el archivo CSV corresponden a Estadística Descriptiva de la distribución de píxeles de la imagen de interés y la distribución de los píxeles que representan biopelícula.
 
-<p align="center"> <img width="600" src="step4-BAS.jpg" alt="step5-BAS"> </p>
+<p align="center"> <img width="600" src="step5-BAS.jpg" alt="step5-BAS"> </p>
 
+### Encuesta de Usabilidad del BAS
 
+<p align="justify">Visitar este link, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.</p>
