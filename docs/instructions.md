@@ -35,11 +35,14 @@ En la seccion **Choose Work Space** podrá ubicar e importar las imágenes para 
 
 ### PASO 2: Recorte de la región de interés de la imagen
 
-<p align="justify">Ir a la sección Manual Segmentation, dar clic en “Segment Biofilm Well” y aparecerá un recuadro con indicaciones sobre el proceso de segmentación. La primera imagen que se muestra es la imagen de referencia. Se da clic en un extremo de la imagen, se mantiene presionado el botón izquierdo del ratón y se arrastra el puntero para seleccionar el área de interés para la segmentación. En este caso, el área de interés es el fondo del pocillo. Presionar Enter para finalizar el proceso de segmentación.</p>
+En la seccion **Manual Cropping** podrá recortar la imagen para analizar sólo el fondo del pocillo:
+- Dar clic en **Crop Area of Interest**, aparecerá un recuadro con indicaciones sobre el proceso de segmentación, dar clic en **OK**.
+- Dar clic en un extremo de la imagen, mantener presionado el botón izquierdo del ratón y arrastrar el puntero para seleccionar el área de interés para la segmentación. Presionar Enter para confirmar la selección.
+- La primera imagen es el control negativo y la segunda imagen es la imagen con biopelícula.
 
 <p align="center"> <img width="600" src="step2-BAS.jpg" alt="step1-BAS"> </p>
 
-<p align="justify">Luego de segmentar el fondo del pocillo de referencia, debe segmentar el fondo del pocillo con biopelícula siguiendo los mismos pasos. Si no está conforme con la selección del área de interés, tiene dos formas de revertir la segmentación. La primera opción es no presionar Enter hasta que considere que la selección es adecuada. Puede repetir el proceso de selección varias veces dando clic en cualquier extremo de la imagen hasta obtener el área apropiada. Para finalizar, presionará Enter. La segunda opción es dando clic de nuevo en “Segment Biofilm Well” para realizar de nuevo el proceso de segmentación.</p>
+> **NOTA:** Si no está conforme con la selección del área de interés, tiene dos formas de revertir la segmentación. La primera opción es no presionar Enter hasta que considere que la selección es adecuada. Puede repetir el proceso de selección varias veces dando clic en cualquier extremo de la imagen hasta obtener el área apropiada. Para finalizar, presionar Enter. La segunda opción es dando clic de nuevo en **Crop Area of Interest** para realizar de nuevo el proceso de segmentación.
 
 ### PASO 3: Selección de filtros
 <p align="justify">Ir a la sección Select Color Scale para seleccionar el filtro que se utilizará para la cuantificación de biopelícula. En esta sección puede elegir entre la Escala de Grises o el Canal Verde, los filtros tienen un desempeño similar. La selección del filtro dependerá del tipo de imagen a analizar. Luego de seleccionar el filtro, dar clic en “Confirm Color Scale”para ir a la siguiente sección.</p>
