@@ -82,3 +82,11 @@ En la sección **Select Color Scale** puede seleccionar un filtro para facilitar
 
 - Repetir del Paso 1 al Paso 5 para analizar las 32 imágenes. El archivo CSV debe contener los resultados de cada pocillo.
 - Visitar este <a href="https://forms.gle/c69dNN6EbFFi3GSq6" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
+
+<p align="center">🕵️‍♂️ Por favor, no difundir el link de esta evaluación, es CONFIDENCIAL 🕵️‍♀️</p>
+
+<h2 align="center">¡Gracias por participar!</h2> 
+
+<p align="center">
+  <img width="300" src="https://media1.giphy.com/media/LcLmmj5br7gkEzjCcb/giphy.gif?cid=790b76118f340bec58512a70b3c5e3097935c5a7fb938019&rid=giphy.gif&ct=g" alt="Material Bread logo">
+</p>
