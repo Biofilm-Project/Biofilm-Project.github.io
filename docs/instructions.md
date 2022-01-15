@@ -68,7 +68,7 @@ En la sección **Select Color Scale** puede seleccionar un filtro para facilitar
 
 ### PASO 5: Exportación de resultados
 
-<p align="justify">En la sección <b>Select Threshold</b> puede observar, guardar y exportar los resultados de la cuantificación de biopelícula. El BAS expresa la cantidad de biopelícula mediante el porcentaje de píxeles que representa la materia orgánica en la imagen analizada. En el ejemplo presentado, BAS ha calculado que casi el 100% de los píxeles representaría a la biopelícula. Si se observa la imagen original, efectivamente, todo el fondo del pocillo está teñido, lo que significa que la biopelícula cubrió toda el área de interés:</p>
+<p align="justify">En la sección <b>Output</b> puede observar, guardar y exportar los resultados de la cuantificación de biopelícula. El BAS expresa la cantidad de biopelícula mediante el porcentaje de píxeles que representa la materia orgánica en la imagen analizada. En el ejemplo presentado, BAS ha calculado que casi el 100% de los píxeles representaría a la biopelícula. Si se observa la imagen original, efectivamente, todo el fondo del pocillo está teñido, lo que significa que la biopelícula cubrió toda el área de interés:</p>
 
 - Dar clic en **Add Result** para grabar y exportar el resultado en un archivo CSV, luego dar clic en **OK**. Este archivo se exportará automáticamente y se almacenará en la carpeta donde esta el archivo BAS.exe.
 - Dar clic en **Show csv file** para visualizar el resultado en el mismo entorno del BAS.
@@ -80,4 +80,5 @@ En la sección **Select Color Scale** puede seleccionar un filtro para facilitar
 
 ### Encuesta de Usabilidad del BAS
 
-<p align="justify">Visitar este link, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.</p>
+- Repetir del Paso 1 al Paso 5 para analizar las 32 imágenes. El archivo CSV debe contener los resultados de cada pocillo.
+- Visitar este <a href="https://forms.gle/c69dNN6EbFFi3GSq6" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
