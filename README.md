@@ -19,9 +19,9 @@
 - Llenado de Encuesta de Usabilidad del BAS **(Duración: 10 - 15 minutos aprox.)**
 
 **Instrucciones:**
-- Descargar desde [aquí]() la carpeta comprimida que contiene el software y las 32 imágenes de biopelículas.
-- Leer las instrucciones de instalación y uso general del software en esta [Guía](docs/instructions.md) para realizar el análisis de las 32 imágenes de biopelículas. También puede ver este [Video Instructivo]().
-- Visitar este [link](https://forms.gle/c69dNN6EbFFi3GSq6), subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
+- Descargar desde <a href="https://drive.google.com/file/d/11fnxmybLOUI035RiyGnA9MvAqN_enge0/view?usp=sharing" target="_blank" rel="noreferrer noopener">aquí</a> la carpeta comprimida que contiene el software y las 32 imágenes de biopelículas.
+- Leer las instrucciones de instalación y uso general del software en esta [Guía](docs/instructions.md) para realizar el análisis de las 32 imágenes de biopelículas. También puede ver este <a href="https://drive.google.com/file/d/1Ye2KVQ3t62YlKZBf7UFDmGEMOnFlWa6o/view?usp=sharing" target="_blank" rel="noreferrer noopener">Video Instructivo</a>.
+- Visitar este <a href="https://forms.gle/c69dNN6EbFFi3GSq6" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
 
 Si tiene alguna duda o problema para hacer el análisis de imágenes, escribir al siguiente correo: **pierre.padilla.h@upch.pe**
 
