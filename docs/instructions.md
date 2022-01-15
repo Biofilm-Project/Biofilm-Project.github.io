@@ -47,7 +47,7 @@ En la sección **Manual Cropping** puede recortar la imagen para analizar sólo 
 ### PASO 3: Selección de filtros
 
 En la sección **Select Color Scale** puede seleccionar un filtro para facilitar la cuantificación de biopelícula:
-- Elija un filtro entre la Escala de Grises o el Canal Verde, luedo dé clic en **Confirm Color Scale**.
+- Elija un filtro entre la Escala de Grises o el Canal Verde, luego dé clic en **Confirm Color Scale**.
 
 > **IMPORTANTE:** Debe utilizar un sólo tipo de filtro para el análisis de toda una fila. Por ejemplo: si analiza las imágenes de la Fila A y elige el Canal Verde para analizar la imagen A2, entonces deberá utilizar el mismo filtro para el resto de imágenes de esa fila. También puede utilizar un sólo filtro para analizar las 32 imágenes. La selección del filtro dependerá del tipo de imagen a analizar. 
 
