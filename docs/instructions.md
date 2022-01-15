@@ -17,7 +17,7 @@
 <p align="justify">Su objetivo es obtener la cantidad de biopelícula adherida en cada uno de los 32 pocillos utilizando el Biofilm Analyzer Software (BAS). Para cumplir con este objetivo, debe seguir la siguiente lista de actividades:</p>
 
 ### PASO 0: Instalación y ejecución del BAS
-- Descargar el software desde [aquí](). La carpeta comprimida también contiene las imágenes que analizará en los siguientes pasos.
+- Descargar el software desde <a href="https://drive.google.com/file/d/11fnxmybLOUI035RiyGnA9MvAqN_enge0/view?usp=sharing" target="_blank" rel="noreferrer noopener">aquí</a>. La carpeta comprimida también contiene las imágenes que analizará en los siguientes pasos.
 - Descomprimir la carpeta, acceder a ella, y dar doble clic en el archivo BAS.exe
 
 ### PASO 1: Importación de imágenes al BAS
@@ -81,7 +81,7 @@ En la sección **Select Color Scale** puede seleccionar un filtro para facilitar
 ### Encuesta de Usabilidad del BAS
 
 - Repetir del Paso 1 al Paso 5 para analizar las 32 imágenes. El archivo CSV debe contener los resultados de cada pocillo.
-- Visitar este <a href="https://forms.gle/c69dNN6EbFFi3GSq6" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
+- Visitar este <a href="https://forms.gle/vLRBei5Mida5jHAJ9" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
 
 <p align="center">🕵️‍♂️ Por favor, no difundir el link de esta evaluación, es CONFIDENCIAL 🕵️‍♀️</p>
 
