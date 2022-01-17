@@ -20,7 +20,7 @@
 
 **Instrucciones:**
 - Descargar desde <a href="https://drive.google.com/file/d/11fnxmybLOUI035RiyGnA9MvAqN_enge0/view?usp=sharing" target="_blank" rel="noreferrer noopener">aquí</a> la carpeta comprimida que contiene el software y las 32 imágenes de biopelículas.
-- Leer las instrucciones de instalación y uso general del software en esta <a href="docs/instructions.md" target="_blank" rel="noreferrer noopener">Guía</a> para realizar el análisis de las 32 imágenes de biopelículas.
+- Leer las instrucciones de instalación y uso general del software en esta <a href="docs/instructions.html" target="_blank" rel="noreferrer noopener">Guía</a> para realizar el análisis de las 32 imágenes de biopelículas.
 - Visitar este <a href="https://forms.gle/vLRBei5Mida5jHAJ9" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
 
 Si tiene alguna duda o problema para hacer el análisis de imágenes, escribir al siguiente correo: **pierre.padilla.h@upch.pe**
