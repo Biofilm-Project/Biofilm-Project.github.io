@@ -83,6 +83,9 @@ En la sección **Select Color Scale** puede seleccionar un filtro para facilitar
 - Repetir del Paso 1 al Paso 5 para analizar las 32 imágenes. El archivo CSV debe contener los resultados de cada pocillo.
 - Visitar este <a href="https://forms.gle/vLRBei5Mida5jHAJ9" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
 
+### Entrega de resultados
+- Se recibirá los archivos CSV hasta el **Martes 25 de Enero del 2022**.
+
 <p align="center">🕵️‍♂️ Por favor, no difundir el link de esta evaluación, es CONFIDENCIAL 🕵️‍♀️</p>
 
 <h2 align="center">¡Gracias por participar!</h2> 
