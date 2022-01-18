@@ -1,9 +1,9 @@
-<h1 align="center">Análisis de imágenes usando el Biofilm Analyzer Software</h1>
+<h1 align="center"> Guía para el análisis de imágenes usando el <br>Biofilm Analyzer Software </h1>
 
 <h2>Información sobre el experimento</h2>
 <p align="justify">Usted analizará los experimentos de formación y adherencia de biopelículas de la cepa <i>Pseudomona aeruginosa</i> realizados por el <a href="https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/lmi" target="_blank" rel="noreferrer noopener">Laboratorio de Moléculas Individuales</a> en el año 2019. Esta experiencia consistió en el crecimiento de biopelícula durante diferentes tiempos de incubación. Los cultivos se realizaron en una placa de 96 pocillos. Luego, las biopelículas fueron teñidas usando el reactivo cristal violeta. La distribución de controles negativos y experimentos fue la siguiente:</p>
 
-- La columna 1 es el control negativo (medio de cultivo sin bacterias).
+- La columna 1 es el control negativo (medio de cultivo sin bacterias). Este pocillo se utilizará para establecer el umbral de lo que es biofilm y no (blanco).
 - De la columna 2 hasta la 8 tenemos los pocillos con medio de cultivo y bacteria a diferentes tiempos de incubación (4 a 28 horas). Las cuatro primeras filas (A,B,C y D) son réplicas. 
 - Sólo se utilizaron 32 pocillos en total.
 
