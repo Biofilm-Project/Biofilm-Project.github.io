@@ -23,6 +23,9 @@
 - Leer las instrucciones de instalación y uso general del software en esta <a href="docs/instructions.html" target="_blank" rel="noreferrer noopener">Guía</a> para realizar el análisis de las 32 imágenes de biopelículas.
 - Visitar este <a href="https://forms.gle/vLRBei5Mida5jHAJ9" target="_blank" rel="noreferrer noopener">link</a>, subir el archivo CSV generado por el software con los resultados del análisis y completar la Encuesta de Usabilidad.
 
+**Entrega de resultados:**
+- Se recibirá los archivos CSV hasta el **Martes 25 de Enero del 2022**.
+
 Si tiene alguna duda o problema para hacer el análisis de imágenes, escribir al siguiente correo: **pierre.padilla.h@upch.pe**
 
 <p align="center">🕵️‍♂️ Por favor, no difundir el link de esta evaluación, es CONFIDENCIAL 🕵️‍♀️</p>
