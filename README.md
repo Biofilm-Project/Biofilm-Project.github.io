@@ -1,6 +1,6 @@
-<h1 align="center">¡Bienvenido/a al proyecto Biopelículas 👋😄!</h1>
+<h1 align="center">¡Bienvenido/a al Proyecto Biopelículas 🦠🧫!</h1>
 
-<p align="justify"> En el marco del proyecto <strong>"Desarrollo de un estimulador acústico que controla señales intracelulares involucradas en la formación de biofilm corrosivo o infeccioso"</strong> (SIDISI: 200560), el equipo de investigación del <a href="https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lmi/" target="_blank" rel="noreferrer noopener">Laboratorio de Moléculas Individuales</a> ha desarrollado una estación de imágenes y software para el análisis de biopelículas en placas multipozo:
+<p align="justify"> En el marco del proyecto <strong>"Desarrollo de un estimulador acústico que controla señales intracelulares involucradas en la formación de biofilm corrosivo o infeccioso"</strong> (SIDISI: 200560), el equipo de investigación del <a href="https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lmi/" target="_blank" rel="noreferrer noopener">Laboratorio de Moléculas Individuales</a> ha desarrollado una estación y un software para captura y análisis de imágenes de biopelículas en placas multipozo:
 </p>
 
 - **Biofilm Image Station (BIS).** El BIS es una estación para microscopía digital de campo claro. Este diseño emula un microscopio vertical, donde el sensor esta por encima de la placa multipozo y la iluminación por debajo de ella. Esta estación puede ser fabricada mediante impresión 3D y corte láser. **[DESCARGAR](https://github.com/Biofilm-Project/BIS)**
