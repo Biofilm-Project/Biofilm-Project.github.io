@@ -7,7 +7,9 @@
 
 - **Biofilm Analyzer Software (BAS).** El BAS está enfocado en la cuantificación de biopelículas adheridas a una superficie mediante el análisis de imágenes 2D. Este software es una estrategia complementaria a la técnica de medición estándar (tinción con Cristal Violeta, resuspensión en ácido acético y determinación de la densidad óptica) y que ha sido <a href="docs/usability.html" target="_blank" rel="noreferrer noopener">validado con diferentes usuarios</a>. **[DESCARGAR](https://github.com/Biofilm-Project/BAS)**
 
-<object width="560" height="315"><param name="movie" value="https://youtu.be/V6LBSABOc2g?t=169"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://youtu.be/V6LBSABOc2g?t=169" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<a href="https://youtu.be/V6LBSABOc2g?t=169">
+   <img class="thumbnail" src="http://img.youtube.com/vi/V6LBSABOc2g/227.jpg" alt="Biofilm">
+</a>
 
 ## Publicaciones
 
