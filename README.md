@@ -13,4 +13,4 @@
 
 ## Publicaciones
 
-Castilla-Sedano, Anderson Javier and Zapana-García, José and Valdivia Del Aguila, Erika Violeta and Padilla Huamantinco, Pierre Guillermo and Guerra, Daniel Giraldez, Quantification of Early Biofilm Growth in Microtiter Plates Through a Novel Image Analysis Software. Available at SSRN: [https://ssrn.com/abstract=4753561](https://ssrn.com/abstract=4753561) or [http://dx.doi.org/10.2139/ssrn.4753561](http://dx.doi.org/10.2139/ssrn.4753561)
+Castilla-Sedano, A. J., Zapana-García, J., Valdivia-Del Águila, E., Padilla-Huamantinco, P. G., & Guerra, D. G. (2024). Quantification of early biofilm growth in microtiter plates through a novel image analysis software. Journal of Microbiological Methods, 106979–106979. [https://doi.org/10.1016/j.mimet.2024.106979](https://doi.org/10.1016/j.mimet.2024.106979)
